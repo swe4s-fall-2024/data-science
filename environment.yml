@@ -1,0 +1,10 @@
+name: data-science
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+prefix: /Users/erjo3868/miniforge3/envs/data-science
